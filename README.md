@@ -6,9 +6,9 @@ Learn how to make a responsive animated website in HTML and CSS easily by watchi
 
 Learn how to create a responsive animated shoe website from scretch by watching this step by stap tutorial video. Don't forget to Subscribe to my YouTube channel for getting more web development tutorial videos.
 
-💝 You can get the complete source code from [BuyMeACoffee](https://www.buymeacoffee.com/codermj/e/187797)
+🎁 Get Design Source Code from [Here](https://www.buymeacoffee.com/the.codermj/e/187797)
 
 Thanks,
-[codermj](https://www.youtube.com/@thecodermj/)
+[codermj](https://www.youtube.com/@the.codermj/)
 
 ![design](https://github.com/mjshofy/header-animated-shoe-website/assets/76812554/0a82fd86-d059-46fd-95bc-2bc067fb81de)
